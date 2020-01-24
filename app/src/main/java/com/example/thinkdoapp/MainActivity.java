@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         double y = 1;
 
         double z = x + y;
+        double p =x+y;
     }
 private void testUpload(){
         int i = 1+1;
