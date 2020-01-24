@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView textView  = findViewById(R.id.textView);
         textView.setText("Hello world");
+        double x=1;
     }
 private void testUpload(){
         int i = 1+1;
