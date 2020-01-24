@@ -14,7 +14,9 @@ public class MainActivity extends AppCompatActivity {
         TextView textView  = findViewById(R.id.textView);
         textView.setText("Hello world");
         int x = 1;
-        double x=1;
+        double y = 1;
+
+        double z = x + y;
     }
 private void testUpload(){
         int i = 1+1;
